@@ -1,0 +1,31 @@
+.login_container {
+    background-color: pink;
+    margin-top: 50px;
+    padding: 25px;
+    width: 50%;
+    height: 420px;
+}
+
+.login_success_container {
+    background-color: pink;
+    margin-top: 50px;
+    padding: 25px;
+    width: 50%;
+    height: 240px;
+}
+
+.title,
+.login_button,
+.logout_button,
+.login_UserName {
+    text-align: center;
+}
+
+.logout_button {
+    margin-top: 10px;
+}
+
+.go_to_table {
+    display: flex;
+    justify-content: space-evenly;
+}
