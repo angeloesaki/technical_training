@@ -72,6 +72,9 @@ LoginLogic::logout();
                     <button type="submit" class="btn btn-primary">ログイン</button>
                 </div>
             </form>
+            <div>
+                <p>ブランチテスト</p>
+            </div>
         </div>
     </div>
 
